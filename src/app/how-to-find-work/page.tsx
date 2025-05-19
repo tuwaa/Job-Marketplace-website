@@ -22,7 +22,7 @@ export default function HowToFindWorkPage() {
                 Launch Your Remote Career
               </h1>
               <p className="text-xl md:text-2xl text-center max-w-3xl mx-auto text-blue-100">
-                Join the future of work with Hirely's premium remote job platform
+                {`Join the future of work with Hirely's premium remote job platform`}
               </p>
             </motion.div>
           </div>

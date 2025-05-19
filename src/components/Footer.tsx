@@ -135,7 +135,7 @@ const Footer = () => {
                     <span className="font-semibold text-blue-900">Changelog</span>
                     <FaArrowRight className="text-blue-600 group-hover:translate-x-1 transition-transform" />
                   </div>
-                  <span className="text-gray-500 text-sm">See what's new and improved on Hirely</span>
+                  <span className="text-gray-500 text-sm">See what&lsquo;s new and improved on Hirely</span>
                 </div>
               </Link>
               <Link href="/blog">

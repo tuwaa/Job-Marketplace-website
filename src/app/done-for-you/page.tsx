@@ -92,7 +92,7 @@ export default function DoneForYouPage() {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Initial Consultation</h3>
                   <p className="text-gray-600">
-                    We'll discuss your hiring needs, company culture, and specific requirements to understand exactly what you're looking for.
+                    {`We'll discuss your hiring needs, company culture, and specific requirements to understand exactly what you're looking for.`}
                   </p>
                 </div>
               </div>
@@ -116,7 +116,7 @@ export default function DoneForYouPage() {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Final Selection</h3>
                   <p className="text-gray-600">
-                    We'll present you with the best candidates and help you make the final selection.
+                  {`We'll present you with the best candidates and help you make the final selection.`}
                   </p>
                 </div>
               </div>
@@ -128,7 +128,7 @@ export default function DoneForYouPage() {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Onboarding Support</h3>
                   <p className="text-gray-600">
-                    We'll handle all the paperwork and ensure a smooth onboarding process for your new hire.
+                  {`We'll handle all the paperwork and ensure a smooth onboarding process for your new hire.`}
                   </p>
                 </div>
               </div>

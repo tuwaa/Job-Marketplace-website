@@ -115,7 +115,7 @@ export default function GetVettedPage() {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Reference Check</h3>
                   <p className="text-gray-600">
-                    We'll verify your work history and check your professional references.
+                    {`We'll verify your work history and check your professional references.`}
                   </p>
                 </div>
               </div>

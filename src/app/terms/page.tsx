@@ -11,8 +11,8 @@ export default function TermsPage() {
           <div className="prose prose-lg max-w-none">
             <h2>1. Acceptance of Terms</h2>
             <p>
-              By accessing and using Hirely's services, you agree to be bound by these Terms of Service.
-              If you do not agree to these terms, please do not use our services.
+             {`By accessing and using Hirely's services, you agree to be bound by these Terms of Service.
+              If you do not agree to these terms, please do not use our services.`}
             </p>
 
             <h2>2. Description of Service</h2>

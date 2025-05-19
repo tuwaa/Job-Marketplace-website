@@ -14,7 +14,7 @@ const Hero = () => {
               FIND TALENTS TODAY
             </h1>
             <p className="text-xl text-gray-600">
-              Looking for the best employees in Davao City? You'll find them here!
+              {`Looking for the best employees in Davao City? You'll find them here!`}
             </p>
             <div>
               <Link
