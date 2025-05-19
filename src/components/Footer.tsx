@@ -1,9 +1,8 @@
 "use client";
 
 import Link from 'next/link';
-import { FaLinkedin, FaFacebook, FaArrowRight, FaCheck, FaStar, FaHandshake } from 'react-icons/fa';
-import Image from 'next/image';
-import { motion } from 'framer-motion';
+import { FaLinkedin, FaFacebook, FaArrowRight} from 'react-icons/fa';
+
 
 const Footer = () => {
   return (
