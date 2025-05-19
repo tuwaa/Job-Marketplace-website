@@ -1,11 +1,11 @@
 import Navbar from '@/components/Navbar';
-import Hero from '@/components/Hero';
+import Hire from '@/components/Hire';
 
-export default function Home() {
+export default function HirePage() {
   return (
     <main>
       <Navbar />
-      <Hero />
+      <Hire />
     </main>
   );
-}
+} 
