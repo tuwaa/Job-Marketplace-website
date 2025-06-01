@@ -62,11 +62,11 @@ export const professionals: Professional[] = [
   },
   {
     id: '6',
-    name: 'Carlos Mendoza',
-    profession: 'Project Manager',
+    name: 'Adam Abdulbaki',
+    profession: 'Bubble Developer',
     experience: '8 years',
     location: 'Davao City',
-    imageUrl: '/professionals/project-manager.jpg',
+    imageUrl: '/professionals/adam.jpg',
     skills: ['Agile Methodology', 'Risk Management', 'Team Leadership', 'Stakeholder Management'],
     rate: '₱60,000 - ₱80,000/month'
   }
